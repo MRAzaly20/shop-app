@@ -1,0 +1,23 @@
+# File yang diabaikan oleh Git
+
+# Mengabaikan folder node_modules
+node_modules/
+
+# Mengabaikan file .env yang berisi variabel lingkungan
+.env
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan file build
+build/
+
+# Mengabaikan file cache
+.cache/
+
+# Mengabaikan file konfigurasi IDE
+.vscode/
+.idea/
+
+# Mengabaikan file database
+*.db
